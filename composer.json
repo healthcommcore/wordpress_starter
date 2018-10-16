@@ -16,14 +16,14 @@
     "wpackagist-plugin/cryout-theme-settings": "^0.5.8", 
     "wpackagist-plugin/force-regenerate-thumbnails": "^2.0.6", 
     "wpackagist-plugin/slide-anything": "^2.0.10",
-    "wpackagist-plugin/nextgen-gallery": "2.2.12",
+    "wpackagist-plugin/nextgen-gallery": "^2.2.12",
     "wpackagist-plugin/all-in-one-seo-pack": "^2.4.2.1",
     "wpackagist-plugin/content-anchor-links": "^1.5",
     "wpackagist-plugin/wp-sitemap-page": "^1.6.1",
     "wpackagist-plugin/search-replace": "^1.2",
     "wpackagist-plugin/widget-css-classes": "^1.5.2.1",
     "wpackagist-plugin/mce-table-buttons": "^3.2",
-    "wpackagist-plugin/image-widget": "4.4.6"
+    "wpackagist-plugin/image-widget": "^4.4.6"
   },
   "extra": {
     "wordpress-install-dir": "web"
