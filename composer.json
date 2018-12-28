@@ -8,7 +8,7 @@
   "require": {
     "php": ">=5.4",
     "johnpbloch/wordpress": "^4.9",
-    "wpackagist-theme/nirvana": "^1.4.2.2",
+    "wpackagist-theme/nirvana": "1.4.5.1",
     "wpackagist-plugin/shortcode-widget": "^1.4", 
     "wpackagist-plugin/slmenuwidget": "^1.4", 
     "wpackagist-plugin/posts-in-sidebar": "^4.3.0", 
@@ -21,6 +21,7 @@
     "wpackagist-plugin/content-anchor-links": "^1.5",
     "wpackagist-plugin/wp-sitemap-page": "^1.6.1",
     "wpackagist-plugin/search-replace": "^1.2",
+    "wpackagist-plugin/wonderm00ns-simple-facebook-open-graph-tags":"^2.2.4.2",
     "wpackagist-plugin/widget-css-classes": "^1.5.2.1",
     "wpackagist-plugin/mce-table-buttons": "^3.2",
     "wpackagist-plugin/image-widget": "^4.4.6"
