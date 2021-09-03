@@ -20,6 +20,7 @@
     "wpackagist-plugin/wonderm00ns-simple-facebook-open-graph-tags":"^2.2.4.2",
     "wpackagist-plugin/widget-css-classes": "^1.5.2.1",
     "wpackagist-plugin/insert-headers-and-footers":"^1.4.6",
+    "wpackagist-plugin/restore-classic-widgets":"^1.2",
     "wpackagist-plugin/relevanssi":"^4.8.3",
     "wpackagist-plugin/staff-list":"^1.3.1",
     "wpackagist-plugin/mce-table-buttons": "^3.2",
