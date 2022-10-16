@@ -7,7 +7,7 @@
   ],
   "require": {
     "php": ">=5.4",
-    "johnpbloch/wordpress": "^5.0",
+    "johnpbloch/wordpress": "^6.0",
     "wpackagist-plugin/shortcode-widget": "^1.4", 
     "wpackagist-plugin/posts-in-sidebar": "^4.3.0", 
     "wpackagist-plugin/widget-logic": "^5.8.2", 
